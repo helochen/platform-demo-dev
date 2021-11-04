@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "attck",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3480cff5-739c-4064-b274-2045b3d3b8de"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "afa93c57-bea5-442f-ab4c-065e6cbbfa3d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "36ec004e-93e9-4544-af80-cac53289dfcb"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "daced904-68fe-435c-a51b-fd4fe0fb468f"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "5c1f1436-bebf-470f-b771-56d0ffb0109c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

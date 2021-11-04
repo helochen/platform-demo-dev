@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "adventurer-attack3-00",
+    "texture": "3ca6a536-286b-4b4a-b199-685398faacd5",
+    "atlas": "",
+    "rect": [
+      19,
+      10,
+      20,
+      26
+    ],
+    "offset": [
+      4,
+      -4.5
+    ],
+    "originalSize": [
+      50,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
