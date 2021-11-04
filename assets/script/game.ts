@@ -17,7 +17,7 @@ export default class NewClass extends cc.Component {
 
     onLoad() {
         cc.director.getPhysicsManager().enabled = true;
-        cc.director.getPhysicsManager().debugDrawFlags = 1;
+        //cc.director.getPhysicsManager().debugDrawFlags = 1;
         this.initMapNode(this.mapNode);
     }
 

@@ -41,7 +41,7 @@ var NewClass = /** @class */ (function (_super) {
     // LIFE-CYCLE CALLBACKS:
     NewClass.prototype.onLoad = function () {
         cc.director.getPhysicsManager().enabled = true;
-        cc.director.getPhysicsManager().debugDrawFlags = 1;
+        //cc.director.getPhysicsManager().debugDrawFlags = 1;
         this.initMapNode(this.mapNode);
     };
     NewClass.prototype.start = function () {

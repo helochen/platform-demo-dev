@@ -484,11 +484,6 @@
     "meta": 1635989120249,
     "relativePath": "script"
   },
-  "c301e7da-84e3-4835-b641-faa0a0f30c90": {
-    "asset": 1635989120250,
-    "meta": 1635989794493,
-    "relativePath": "script\\game.ts"
-  },
   "a6015e09-a009-4b9e-94dd-259a523ad0f2": {
     "asset": 1635989120251,
     "meta": 1635989120250,
@@ -505,8 +500,8 @@
     "relativePath": "source\\bg"
   },
   "5a7b97c6-502c-4be2-90e4-e5d7b6caea8d": {
-    "asset": 1636011534328,
-    "meta": 1636011534348,
+    "asset": 1636017970577,
+    "meta": 1636017970595,
     "relativePath": "sence\\game.fire"
   },
   "6f12f059-8184-4b8a-9c39-421d7e348e38": {
@@ -773,5 +768,20 @@
     "asset": 1636016872981,
     "meta": 1636016931957,
     "relativePath": "script\\hero.ts"
+  },
+  "c301e7da-84e3-4835-b641-faa0a0f30c90": {
+    "asset": 1636017663976,
+    "meta": 1636017671196,
+    "relativePath": "script\\game.ts"
+  },
+  "147f67d2-5e95-4f6e-bd66-9a071abdac5b": {
+    "asset": 1636017825658,
+    "meta": 1636017825667,
+    "relativePath": "animation\\enemy_idle.anim"
+  },
+  "17897c1d-6829-4759-be68-e16e9c4987fd": {
+    "asset": 1636017966677,
+    "meta": 1636017966694,
+    "relativePath": "animation\\enemy_hurt.anim"
   }
 }

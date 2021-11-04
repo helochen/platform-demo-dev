@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemy_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a8736699-7a16-4590-ba27-0ce8e20ea8ed"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "83889d8f-5322-43e5-9e45-a4514c9dfd92"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "eba82724-3167-40f2-996e-1dcb648ff2b5"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "591c4f4f-5efa-417c-ab0d-8b8994ebfbb4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
